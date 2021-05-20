@@ -1,0 +1,22 @@
+/* Index Page CSS
+May 19, 2021 */
+
+html {
+    background: #00ffff;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+}
+
+table, th, td {
+    border: 3px solid black;
+    border-spacing: 5px;
+    padding: 15px;
+}
+
+section#audiobutton {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
